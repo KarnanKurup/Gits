@@ -1,0 +1,13 @@
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe.config
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Timer.exe
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Timer.pdb
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\Interop.WMPLib.dll
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\bin\Debug\AxInterop.WMPLib.dll
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Interop.WMPLib.dll
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\AxInterop.WMPLib.dll
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.csproj.ResolveComReference.cache
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.Form1.resources
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.Properties.Resources.resources
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.csproj.GenerateResource.Cache
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.exe
+D:\Coding\Visual Studio 2013\Projects\Timer\Timer\obj\Debug\Timer.pdb

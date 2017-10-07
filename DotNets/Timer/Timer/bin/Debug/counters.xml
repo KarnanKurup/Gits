@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Counters" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Counters">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Index" type="xs:int" minOccurs="0" />
+                <xs:element name="TargetDate" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Repeat" type="xs:boolean" minOccurs="0" />
+                <xs:element name="IntervalAmount" type="xs:int" minOccurs="0" />
+                <xs:element name="Description" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <Counters>
+    <Index>0</Index>
+    <TargetDate>2017-08-04T09:30:00+05:30</TargetDate>
+    <Repeat>false</Repeat>
+    <IntervalAmount>0</IntervalAmount>
+    <Description />
+  </Counters>
+</NewDataSet>

@@ -1,0 +1,10 @@
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\bin\Debug\vbsam.exe.config
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\bin\Debug\vbsam.exe
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\bin\Debug\vbsam.pdb
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\bin\Debug\vbsam.xml
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\obj\Debug\vbsam.Form1.resources
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\obj\Debug\vbsam.Resources.resources
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\obj\Debug\vbsam.vbproj.GenerateResource.Cache
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\obj\Debug\vbsam.exe
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\obj\Debug\vbsam.xml
+D:\Coding\Visual Studio 2013\Projects\GraphicsLab\vbsam\vbsam\obj\Debug\vbsam.pdb

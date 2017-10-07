@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}This Project is done by Karnan S(1524022) and Bigi L(1524015) 
+of
+${licensePrefix}MCA Batch (2015-18) of Rajagiri College of Social Science,
+${licensePrefix}
+as a part of class Project for Java Programming.
+<#if licenseLast??>
+${licenseLast}
+</#if>

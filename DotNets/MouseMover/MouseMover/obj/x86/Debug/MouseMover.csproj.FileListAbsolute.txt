@@ -1,0 +1,39 @@
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MainWindow.baml
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MainWindow.g.cs
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\App.g.cs
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover_MarkupCompile.cache
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover.g.resources
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover.Properties.Resources.resources
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\bin\Debug\MouseMover.exe
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\bin\Debug\MouseMover.pdb
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover.exe
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover.pdb
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover.csprojResolveAssemblyReference.cache
+E:\Arbeiten\NET\Wpf\RemoteMouse\MouseMover\MouseMover\obj\x86\Debug\MouseMover.csproj.GenerateResource.Cache
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover.exe
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover.pdb
+D:\Coding\Testing\MouseMover\MouseMover\bin\Debug\MouseMover.exe
+D:\Coding\Testing\MouseMover\MouseMover\bin\Debug\MouseMover.pdb
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover.csprojResolveAssemblyReference.cache
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MainWindow.baml
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MainWindow.g.cs
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\App.g.cs
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover_MarkupCompile.cache
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover.g.resources
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover.Properties.Resources.resources
+D:\Coding\Testing\MouseMover\MouseMover\obj\x86\Debug\MouseMover.csproj.GenerateResource.Cache
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\bin\Debug\MouseMover.exe.manifest
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\bin\Debug\MouseMover.application
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\bin\Debug\MouseMover.exe
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\bin\Debug\MouseMover.pdb
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MainWindow.baml
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MainWindow.g.cs
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\App.g.cs
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover_MarkupCompile.cache
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.g.resources
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.Properties.Resources.resources
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.csproj.GenerateResource.Cache
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.exe.manifest
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.application
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.exe
+D:\Coding\Visual Studio 2013\Projects\MouseMover\MouseMover\obj\x86\Debug\MouseMover.pdb
